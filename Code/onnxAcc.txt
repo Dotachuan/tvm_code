@@ -1,0 +1,13 @@
+batch acc:  0.8
+batch acc:  0.9
+batch acc:  0.8
+batch acc:  1.0
+batch acc:  0.8
+batch acc:  0.9
+batch acc:  0.8
+batch acc:  0.9
+batch acc:  0.9
+batch acc:  0.9
+batch acc:  0.9
+Time elapsed is :388.9584119897336ms
+Accuracy:  0.8727272727272727
